@@ -1,0 +1,8 @@
+a=input()
+b=input()
+c=input()
+print(a, c, d)
+d=input()
+e=input()
+f=input()
+print(d, e ,f)
