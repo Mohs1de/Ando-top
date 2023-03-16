@@ -1,0 +1,6 @@
+gazeta = range(1, 76)
+jurnal = range(77, 104)
+both = range(21, 34)
+a = (jurnal - both)
+b = len((gazeta | a))
+print(list(a))
